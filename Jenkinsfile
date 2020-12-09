@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('echo') {
       steps {
-        echo 'Hola'
+        echo 'Hola CON trigger'
       }
     }
 
