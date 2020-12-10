@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('echo') {
       steps {
-        echo 'Hola CON trigger yeepa2 LA BUENA'
+        echo 'Hola CON trigger yeepa2 LA BUENAminicambio'
       }
     }
 
